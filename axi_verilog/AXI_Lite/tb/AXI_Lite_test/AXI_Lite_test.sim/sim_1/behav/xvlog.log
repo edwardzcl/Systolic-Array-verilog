@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sources_1/bd/AXI_Lite_test/ipshared/pkuims_chenqiang/axi_lite_master_v1_0/axi_lite_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_lite_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sources_1/bd/AXI_Lite_test/ip/AXI_Lite_test_axi_lite_master_0_0/sim/AXI_Lite_test_axi_lite_master_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_Lite_test_axi_lite_master_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sources_1/bd/AXI_Lite_test/ipshared/pkuims_chenqiang/axi_lite_slave_v1_0/axi_lite_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_lite_slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sources_1/bd/AXI_Lite_test/ip/AXI_Lite_test_axi_lite_slave_0_0/sim/AXI_Lite_test_axi_lite_slave_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_Lite_test_axi_lite_slave_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sources_1/bd/AXI_Lite_test/hdl/AXI_Lite_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_Lite_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sources_1/bd/AXI_Lite_test/hdl/AXI_Lite_test_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_Lite_test_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sim_1/imports/tb/lite_system_wrapper_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lite_system_wrapper_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

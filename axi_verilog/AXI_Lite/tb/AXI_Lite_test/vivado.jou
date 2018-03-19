@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Tue Dec 06 11:10:58 2016
+# Process ID: 7152
+# Current directory: D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2784 D:\IMSLAB\VivadoProject\AXI_Total\AXI_Lite\tb\AXI_Lite_test\AXI_Lite_test.xpr
+# Log file: D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/vivado.log
+# Journal file: D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/lite_system_wrapper_tb_behav.wcfg
+source lite_system_wrapper_tb.tcl
+close_sim

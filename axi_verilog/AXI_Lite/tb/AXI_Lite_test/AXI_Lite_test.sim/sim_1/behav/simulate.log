@@ -1,0 +1,3 @@
+Vivado Simulator 2016.1
+Time resolution is 1 ps
+$finish called at time : 1355 ps : File "D:/IMSLAB/VivadoProject/AXI_Total/AXI_Lite/tb/AXI_Lite_test/AXI_Lite_test.srcs/sim_1/imports/tb/lite_system_wrapper_tb.v" Line 66

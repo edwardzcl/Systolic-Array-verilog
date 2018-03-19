@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="lite_system_wrapper_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="lite_system_wrapper_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="24281fs"></ZoomStartTime>
+      <ZoomEndTime time="657282fs"></ZoomEndTime>
+      <Cursor1Time time="1355000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="94" />
+   <wvobject fp_name="/lite_system_wrapper_tb/ACLK" type="logic">
+      <obj_property name="ElementShortName">ACLK</obj_property>
+      <obj_property name="ObjectShortName">ACLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/ARESETN" type="logic">
+      <obj_property name="ElementShortName">ARESETN</obj_property>
+      <obj_property name="ObjectShortName">ARESETN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/WCOMPLETE" type="logic">
+      <obj_property name="ElementShortName">WCOMPLETE</obj_property>
+      <obj_property name="ObjectShortName">WCOMPLETE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/RCOMPLETE" type="logic">
+      <obj_property name="ElementShortName">RCOMPLETE</obj_property>
+      <obj_property name="ObjectShortName">RCOMPLETE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_ACLK" type="logic">
+      <obj_property name="ElementShortName">M_AXI_ACLK</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_ACLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_ARESETN" type="logic">
+      <obj_property name="ElementShortName">M_AXI_ARESETN</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_ARESETN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_AWADDR" type="array">
+      <obj_property name="ElementShortName">M_AXI_AWADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_AWADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_AWPROT" type="array">
+      <obj_property name="ElementShortName">M_AXI_AWPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_AWPROT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_AWVALID" type="logic">
+      <obj_property name="ElementShortName">M_AXI_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_AWVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_AWREADY" type="logic">
+      <obj_property name="ElementShortName">M_AXI_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_AWREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_WDATA" type="array">
+      <obj_property name="ElementShortName">M_AXI_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_WSTRB" type="array">
+      <obj_property name="ElementShortName">M_AXI_WSTRB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_WSTRB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_WVALID" type="logic">
+      <obj_property name="ElementShortName">M_AXI_WVALID</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_WVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_WREADY" type="logic">
+      <obj_property name="ElementShortName">M_AXI_WREADY</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_WREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_BRESP" type="array">
+      <obj_property name="ElementShortName">M_AXI_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_BVALID" type="logic">
+      <obj_property name="ElementShortName">M_AXI_BVALID</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_BVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_BREADY" type="logic">
+      <obj_property name="ElementShortName">M_AXI_BREADY</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_BREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_ARADDR" type="array">
+      <obj_property name="ElementShortName">M_AXI_ARADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_ARADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_ARVALID" type="logic">
+      <obj_property name="ElementShortName">M_AXI_ARVALID</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_ARVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_ARREADY" type="logic">
+      <obj_property name="ElementShortName">M_AXI_ARREADY</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_ARREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_RDATA" type="array">
+      <obj_property name="ElementShortName">M_AXI_RDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_RDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_RRESP" type="array">
+      <obj_property name="ElementShortName">M_AXI_RRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_RRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_RVALID" type="logic">
+      <obj_property name="ElementShortName">M_AXI_RVALID</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_RVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/M_AXI_RREADY" type="logic">
+      <obj_property name="ElementShortName">M_AXI_RREADY</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_RREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_awvalid" type="logic">
+      <obj_property name="ElementShortName">axi_awvalid</obj_property>
+      <obj_property name="ObjectShortName">axi_awvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_wvalid" type="logic">
+      <obj_property name="ElementShortName">axi_wvalid</obj_property>
+      <obj_property name="ObjectShortName">axi_wvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_arvalid" type="logic">
+      <obj_property name="ElementShortName">axi_arvalid</obj_property>
+      <obj_property name="ObjectShortName">axi_arvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_rready" type="logic">
+      <obj_property name="ElementShortName">axi_rready</obj_property>
+      <obj_property name="ObjectShortName">axi_rready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_bready" type="logic">
+      <obj_property name="ElementShortName">axi_bready</obj_property>
+      <obj_property name="ObjectShortName">axi_bready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_awaddr" type="array">
+      <obj_property name="ElementShortName">axi_awaddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_awaddr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_wdata" type="array">
+      <obj_property name="ElementShortName">axi_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/axi_araddr" type="array">
+      <obj_property name="ElementShortName">axi_araddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_araddr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/count" type="array">
+      <obj_property name="ElementShortName">count[4:0]</obj_property>
+      <obj_property name="ObjectShortName">count[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/write_resp_error" type="logic">
+      <obj_property name="ElementShortName">write_resp_error</obj_property>
+      <obj_property name="ObjectShortName">write_resp_error</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/read_resp_error" type="logic">
+      <obj_property name="ElementShortName">read_resp_error</obj_property>
+      <obj_property name="ObjectShortName">read_resp_error</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/start_single_write" type="logic">
+      <obj_property name="ElementShortName">start_single_write</obj_property>
+      <obj_property name="ObjectShortName">start_single_write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/start_single_read" type="logic">
+      <obj_property name="ElementShortName">start_single_read</obj_property>
+      <obj_property name="ObjectShortName">start_single_read</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/write_issued" type="logic">
+      <obj_property name="ElementShortName">write_issued</obj_property>
+      <obj_property name="ObjectShortName">write_issued</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/read_issued" type="logic">
+      <obj_property name="ElementShortName">read_issued</obj_property>
+      <obj_property name="ObjectShortName">read_issued</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/writes_done" type="logic">
+      <obj_property name="ElementShortName">writes_done</obj_property>
+      <obj_property name="ObjectShortName">writes_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/reads_done" type="logic">
+      <obj_property name="ElementShortName">reads_done</obj_property>
+      <obj_property name="ObjectShortName">reads_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/error_reg" type="logic">
+      <obj_property name="ElementShortName">error_reg</obj_property>
+      <obj_property name="ObjectShortName">error_reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/write_index" type="array">
+      <obj_property name="ElementShortName">write_index[7:0]</obj_property>
+      <obj_property name="ObjectShortName">write_index[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/read_index" type="array">
+      <obj_property name="ElementShortName">read_index[7:0]</obj_property>
+      <obj_property name="ObjectShortName">read_index[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/compare_done" type="logic">
+      <obj_property name="ElementShortName">compare_done</obj_property>
+      <obj_property name="ObjectShortName">compare_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/read_mismatch" type="logic">
+      <obj_property name="ElementShortName">read_mismatch</obj_property>
+      <obj_property name="ObjectShortName">read_mismatch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/last_write" type="logic">
+      <obj_property name="ElementShortName">last_write</obj_property>
+      <obj_property name="ObjectShortName">last_write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/last_read" type="logic">
+      <obj_property name="ElementShortName">last_read</obj_property>
+      <obj_property name="ObjectShortName">last_read</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/mst_exec_state" type="array">
+      <obj_property name="ElementShortName">mst_exec_state[1:0]</obj_property>
+      <obj_property name="ObjectShortName">mst_exec_state[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/C_TRANSACTIONS_NUM" type="array">
+      <obj_property name="ElementShortName">C_TRANSACTIONS_NUM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">C_TRANSACTIONS_NUM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/LP_START_DATA_VALUE" type="array">
+      <obj_property name="ElementShortName">LP_START_DATA_VALUE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LP_START_DATA_VALUE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/LP_TARGET_SLAVE_BASE_ADDR" type="array">
+      <obj_property name="ElementShortName">LP_TARGET_SLAVE_BASE_ADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LP_TARGET_SLAVE_BASE_ADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/LP_START_COUNT" type="array">
+      <obj_property name="ElementShortName">LP_START_COUNT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LP_START_COUNT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/LP_WAIT_COUNT_BITS" type="array">
+      <obj_property name="ElementShortName">LP_WAIT_COUNT_BITS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LP_WAIT_COUNT_BITS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_master_0/inst/LP_TRANS_NUM_BITS" type="array">
+      <obj_property name="ElementShortName">LP_TRANS_NUM_BITS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LP_TRANS_NUM_BITS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_ACLK" type="logic">
+      <obj_property name="ElementShortName">S_AXI_ACLK</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_ACLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_ARESETN" type="logic">
+      <obj_property name="ElementShortName">S_AXI_ARESETN</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_ARESETN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_AWADDR" type="array">
+      <obj_property name="ElementShortName">S_AXI_AWADDR[4:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_AWADDR[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_AWVALID" type="logic">
+      <obj_property name="ElementShortName">S_AXI_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_AWVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_AWREADY" type="logic">
+      <obj_property name="ElementShortName">S_AXI_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_AWREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_WDATA" type="array">
+      <obj_property name="ElementShortName">S_AXI_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_WSTRB" type="array">
+      <obj_property name="ElementShortName">S_AXI_WSTRB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_WSTRB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_WVALID" type="logic">
+      <obj_property name="ElementShortName">S_AXI_WVALID</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_WVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_WREADY" type="logic">
+      <obj_property name="ElementShortName">S_AXI_WREADY</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_WREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_BRESP" type="array">
+      <obj_property name="ElementShortName">S_AXI_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_BVALID" type="logic">
+      <obj_property name="ElementShortName">S_AXI_BVALID</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_BVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_BREADY" type="logic">
+      <obj_property name="ElementShortName">S_AXI_BREADY</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_BREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_ARADDR" type="array">
+      <obj_property name="ElementShortName">S_AXI_ARADDR[4:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_ARADDR[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_ARVALID" type="logic">
+      <obj_property name="ElementShortName">S_AXI_ARVALID</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_ARVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_ARREADY" type="logic">
+      <obj_property name="ElementShortName">S_AXI_ARREADY</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_ARREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_RDATA" type="array">
+      <obj_property name="ElementShortName">S_AXI_RDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_RDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_RRESP" type="array">
+      <obj_property name="ElementShortName">S_AXI_RRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_RRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_RVALID" type="logic">
+      <obj_property name="ElementShortName">S_AXI_RVALID</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_RVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/S_AXI_RREADY" type="logic">
+      <obj_property name="ElementShortName">S_AXI_RREADY</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_RREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_rresp" type="array">
+      <obj_property name="ElementShortName">axi_rresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_rresp[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_bresp" type="array">
+      <obj_property name="ElementShortName">axi_bresp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_bresp[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_awready" type="logic">
+      <obj_property name="ElementShortName">axi_awready</obj_property>
+      <obj_property name="ObjectShortName">axi_awready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_wready" type="logic">
+      <obj_property name="ElementShortName">axi_wready</obj_property>
+      <obj_property name="ObjectShortName">axi_wready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_bvalid" type="logic">
+      <obj_property name="ElementShortName">axi_bvalid</obj_property>
+      <obj_property name="ObjectShortName">axi_bvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_rvalid" type="logic">
+      <obj_property name="ElementShortName">axi_rvalid</obj_property>
+      <obj_property name="ObjectShortName">axi_rvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_awaddr" type="array">
+      <obj_property name="ElementShortName">axi_awaddr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_awaddr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_araddr" type="array">
+      <obj_property name="ElementShortName">axi_araddr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_araddr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_rdata" type="array">
+      <obj_property name="ElementShortName">axi_rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/axi_arready" type="logic">
+      <obj_property name="ElementShortName">axi_arready</obj_property>
+      <obj_property name="ObjectShortName">axi_arready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/slv_reg0" type="array">
+      <obj_property name="ElementShortName">slv_reg0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/slv_reg1" type="array">
+      <obj_property name="ElementShortName">slv_reg1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/slv_reg2" type="array">
+      <obj_property name="ElementShortName">slv_reg2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/slv_reg3" type="array">
+      <obj_property name="ElementShortName">slv_reg3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/slv_reg_rden" type="logic">
+      <obj_property name="ElementShortName">slv_reg_rden</obj_property>
+      <obj_property name="ObjectShortName">slv_reg_rden</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/slv_reg_wren" type="logic">
+      <obj_property name="ElementShortName">slv_reg_wren</obj_property>
+      <obj_property name="ObjectShortName">slv_reg_wren</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/reg_data_out" type="array">
+      <obj_property name="ElementShortName">reg_data_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_data_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/byte_index" type="array">
+      <obj_property name="ElementShortName">byte_index[31:0]</obj_property>
+      <obj_property name="ObjectShortName">byte_index[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/ADDR_LSB" type="array">
+      <obj_property name="ElementShortName">ADDR_LSB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_LSB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lite_system_wrapper_tb/AXI_Lite_test_wrapper_i/AXI_Lite_test_i/axi_lite_slave_0/inst/ADDR_MSB" type="array">
+      <obj_property name="ElementShortName">ADDR_MSB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_MSB[31:0]</obj_property>
+   </wvobject>
+</wave_config>
